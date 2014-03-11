@@ -1,0 +1,25 @@
+This is the OS/2 port of the ABC PreProcessor, built with GCC 4.5.2.
+
+I just modified the original makefile and moved the EXE file into the
+os2 subdirectory.
+
+To use this program you will need:
+
+- the EXEcutable file
+
+- the files .abp contained in this directory
+
+- (optionally) the examples\ subdirectory
+
+To learn what ABCPP is and how to use it, read the files into the docs\ subdirectory.
+
+ABCPP is meant to be used together with ABCm2PS, an ABC music files processor, for which
+I did the OS/2 port. You will also need the GCC 4.5.2 DLL to run the EXE file.
+
+If you find this program interesting and are happy to see that music typesetting is
+possible also on OS/2, please let me know it! I don't need donations, but users' feedback
+is really appreciated in good and bad cases.
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
